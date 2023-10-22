@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Trirong");
+.App {
+  text-align: center;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  /* font-family: "Lucida Console", "Courier New", monospace; */
+  font-family: "Trirong", serif;
+}
