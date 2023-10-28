@@ -49,6 +49,18 @@ function Meta({ name }) {
             <a href={content[key].link_source}>{content[key].link_text} </a>
           );
         }
+        if (key.includes("video")) {
+          return (
+            <div>
+              <iframe
+                width="1080"
+                height="720"
+                src={content[key]}
+                title="What do I do on Mid-Autum Festival"
+              ></iframe>
+            </div>
+          );
+        }
 
         return <div></div>;
       })}

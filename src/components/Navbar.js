@@ -1,8 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
-// import "../styles/bootstrap.css";
-// import "../styles/style.css";
-// import "../styles/font-awesome.min.css";
 import "../styles/Navbar.css";
 import ReorderIcon from "@material-ui/icons/Reorder";
 
@@ -32,7 +29,7 @@ function Navbar() {
       <div className="links">
         <Link to="/"> Home </Link>
         <Link to="/projects"> Portfolio </Link>
-        <Link to="/aboutme"> About </Link>
+        {/* <Link to="/aboutme"> About </Link> */}
       </div>
     </div>
   );

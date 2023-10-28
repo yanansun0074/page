@@ -169,4 +169,16 @@ export const projectDetail = [
       image3: ceval_login,
     },
   },
+  {
+    name: "Mid Autumn Festival",
+    content: {
+      video: "https://www.youtube.com/embed/zuiFfiDk8bs",
+    },
+  },
+  {
+    name: "Cat's concert",
+    content: {
+      video: "https://www.youtube.com/embed/tRdiV_IR7t8",
+    },
+  },
 ];
