@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ca6f8dd4.css",
-    "main.js": "/static/js/main.2db60168.js",
+    "main.js": "/static/js/main.01f10ad8.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/ManhattanFood_filters.gif": "/static/media/ManhattanFood_filters.7e76903fa2eb2a68ce15.gif",
     "static/media/CatConcert_poster.png": "/static/media/CatConcert_poster.012bbe8d8769c10c6559.png",
@@ -37,11 +37,11 @@
     "static/media/MetaMapper_travel.jpg": "/static/media/MetaMapper_travel.4ba965c2e6007d0e4809.jpg",
     "index.html": "/index.html",
     "main.ca6f8dd4.css.map": "/static/css/main.ca6f8dd4.css.map",
-    "main.2db60168.js.map": "/static/js/main.2db60168.js.map",
+    "main.01f10ad8.js.map": "/static/js/main.01f10ad8.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca6f8dd4.css",
-    "static/js/main.2db60168.js"
+    "static/js/main.01f10ad8.js"
   ]
 }
