@@ -86,7 +86,7 @@ export const projectList = [
   },
   {
     route: "cat-concert",
-    name: "Cat's concerts",
+    name: "Cat's concert",
     image: concert,
     date: "2020-12",
     skill: "After Effect",
