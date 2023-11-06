@@ -6,11 +6,13 @@ import About from "./Pages/About";
 import Navbar from "./components/Navbar";
 import Footer from "./components/footer";
 import ProjectDisplay from "./Pages/ProjectDisplay";
+import ScrollToTop from "./components/ScrollToTop";
 
 function App() {
   return (
     <div>
       <Router>
+        <ScrollToTop />
         <Navbar />
         {/* the Navbar is inside the router system but not a route */}
         <Routes>
