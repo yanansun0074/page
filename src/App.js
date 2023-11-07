@@ -11,7 +11,7 @@ import ScrollToTop from "./components/ScrollToTop";
 function App() {
   return (
     <div>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <ScrollToTop />
         <Navbar />
         {/* the Navbar is inside the router system but not a route */}
