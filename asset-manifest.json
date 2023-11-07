@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://yanansun0074.github.io/page/static/css/main.607c1b49.css",
+    "main.css": "https://yanansun0074.github.io/page/static/css/main.b29c163a.css",
     "main.js": "https://yanansun0074.github.io/page/static/js/main.dc41ac66.js",
     "static/js/787.1ed0c42c.chunk.js": "https://yanansun0074.github.io/page/static/js/787.1ed0c42c.chunk.js",
     "static/media/ManhattanFood_filters.gif": "https://yanansun0074.github.io/page/static/media/ManhattanFood_filters.7e76903fa2eb2a68ce15.gif",
@@ -33,15 +33,15 @@
     "static/media/UNCWebEval_login.png": "https://yanansun0074.github.io/page/static/media/UNCWebEval_login.880280791b37e3b48e23.png",
     "static/media/UNCWebEval_class.png": "https://yanansun0074.github.io/page/static/media/UNCWebEval_class.ffa2b5e8156cd6c9cc2b.png",
     "static/media/MetaMapper_scene1.png": "https://yanansun0074.github.io/page/static/media/MetaMapper_scene1.54e13d788d07916835b5.png",
-    "static/media/HomePage1.png": "https://yanansun0074.github.io/page/static/media/HomePage1.49afa28b5d2a148046c3.png",
+    "static/media/HomePage2.png": "https://yanansun0074.github.io/page/static/media/HomePage2.0cbe9b17d20e71523e15.png",
     "static/media/MetaMapper_travel.jpg": "https://yanansun0074.github.io/page/static/media/MetaMapper_travel.4ba965c2e6007d0e4809.jpg",
     "index.html": "https://yanansun0074.github.io/page/index.html",
-    "main.607c1b49.css.map": "https://yanansun0074.github.io/page/static/css/main.607c1b49.css.map",
+    "main.b29c163a.css.map": "https://yanansun0074.github.io/page/static/css/main.b29c163a.css.map",
     "main.dc41ac66.js.map": "https://yanansun0074.github.io/page/static/js/main.dc41ac66.js.map",
     "787.1ed0c42c.chunk.js.map": "https://yanansun0074.github.io/page/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.607c1b49.css",
+    "static/css/main.b29c163a.css",
     "static/js/main.dc41ac66.js"
   ]
 }
