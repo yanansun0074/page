@@ -1,5 +1,5 @@
 {
-  "homepage": "https://yanansun0074.github.io/page/",
+  "homepage": "https://yanansun0074.github.io/page",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,7 @@
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "build": "PUBLIC_URL=https://yanansun0074.github.io/page/ react-scripts build",
+    "build": "PUBLIC_URL=https://yanansun0074.github.io/page react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
